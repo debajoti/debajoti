@@ -18,11 +18,9 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debajotichk/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/debajotichk)
-[![Discord](https://img.shields.io/badge/madmax-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/662267976984297473)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/662267976984297473)
 
 ## Skills
-
-Below mentioned are some of the skills I have. _In any way it doesn't mean that I am limited to just these skills_
 
 #### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=c,cpp,js)
@@ -39,14 +37,8 @@ Below mentioned are some of the skills I have. _In any way it doesn't mean that 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vercel,vscode,figma,firebase,xd,ps,ai)
 
-
-## Some of my projects
-[![Api Party](https://github-readme-stats.vercel.app/api/pin/?username=debajoti&repo=api-party&theme=radical)](https://github.com/debajoti/api-party)
-[![Clash of Clans Assets](https://github-readme-stats.vercel.app/api/pin/?username=Statscell&repo=clash-assets&theme=radical)](https://github.com/Statscell/clash-assets)
-
-
 ## Github Stats
 ![trophy](https://github-profile-trophy.vercel.app/?username=debajoti&theme=onedark&column=8&margin-w=5&margin-h=5)
-
-![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=debajoti&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=debajoti&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debajoti&theme=dark&layout=compact)
+![Debajoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=debajoti&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=debajoti&theme=dark)
