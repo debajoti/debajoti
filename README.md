@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/debajoti/debajoti.md/assets/132689129/79dd61e7-1b81-425d-a611-ac291afcf56d)
+![MasterHead](https://github.com/debajoti/debajoti/assets/132689129/e6320f4b-bd46-4056-9695-149dd65565f1)
 
 <h1 align="center">Hi 👋, I'm Debajoti Chakraborty</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
