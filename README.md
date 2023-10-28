@@ -42,3 +42,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debajoti&theme=dark&layout=compact)
 ![Debajoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=debajoti&show_icons=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=debajoti&theme=dark)
+[![An image of @debajoti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/debajoti)](https://holopin.io/@debajoti)
