@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Debajoti Chakraborty</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/debajoti/debajoti/assets/132689129/fbb629eb-35e8-44dc-b23e-02155d5f730e">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debajoti&label=Profile%20views&color=0e75b6&style=flat" alt="debajoti" /> </p>
 
